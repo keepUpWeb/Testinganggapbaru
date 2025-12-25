@@ -1,0 +1,9 @@
+{
+  "name": "daf",
+  "framework": "nextjs",
+  "language": "javascript",
+  "buildCommand": "npm run build",
+  "startCommand": "npm run dev",
+  "domain": "dafffanih",
+  "email": "d.raihan2004@gmail.com"
+}
